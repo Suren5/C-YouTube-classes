@@ -1,0 +1,7 @@
+C:\Users\Suren\Documents\GitHub\C# YouTube classes\Youtubeclass1\Youtubeclass1\bin\Debug\Youtubeclass1.exe.config
+C:\Users\Suren\Documents\GitHub\C# YouTube classes\Youtubeclass1\Youtubeclass1\bin\Debug\Youtubeclass1.exe
+C:\Users\Suren\Documents\GitHub\C# YouTube classes\Youtubeclass1\Youtubeclass1\bin\Debug\Youtubeclass1.pdb
+C:\Users\Suren\Documents\GitHub\C# YouTube classes\Youtubeclass1\Youtubeclass1\obj\Debug\Youtubeclass1.csprojResolveAssemblyReference.cache
+C:\Users\Suren\Documents\GitHub\C# YouTube classes\Youtubeclass1\Youtubeclass1\obj\Debug\Youtubeclass1.csproj.CoreCompileInputs.cache
+C:\Users\Suren\Documents\GitHub\C# YouTube classes\Youtubeclass1\Youtubeclass1\obj\Debug\Youtubeclass1.exe
+C:\Users\Suren\Documents\GitHub\C# YouTube classes\Youtubeclass1\Youtubeclass1\obj\Debug\Youtubeclass1.pdb
